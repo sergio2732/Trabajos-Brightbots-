@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: o;
+    
+}
+p, h3{
+    margin-left: 15px;
+}
+body{
+    max-width: 850px;
+}
+header{
+    background-color: black;
+    width: 105%;
+  
+}
+#Titulo{
+    text-align: center;
+    color: white;
+    margin-right: 20px;
+}
+#Document{
+    display: flex;
+    margin-top: auto;
+}
+#Documento1{
+    margin-top: auto;
+}
+#Date{
+    display: flex;
+}
+#Fecha1{
+    margin-top: auto;
+}
+#Place{
+    display: flex;
+    margin-top: auto;
+}
+#Lugar1{
+    margin-top: auto;
+}
+#State{
+    display: flex;
+    margin-top: auto;
+}
+#Estado1{
+    margin-top: auto;
+}
+#Phone{
+    display: flex;
+    margin-top: auto;
+}
+#Celular1{
+    margin-top: auto;
+}
+#Mail{
+    display: flex;
+    margin-top: auto;
+}
+#Email1{
+    margin-top: auto;
+}
+#Foto{
+    float: right;
+    margin-right: 5%;
+    height: 250px;
+    width: 200px;
+    border-radius: 25%;
+}
+#Perfil1{
+    width: 65%;
+}
+footer{
+    background-color: black;
+    width: 100%;
+}
+#Vinculos{
+    color: white;
+}
+.red{
+    margin-left: 10px;
+    height: 20px;
+    width: 20px;
+}
