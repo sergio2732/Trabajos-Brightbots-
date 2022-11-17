@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@media screen and (max-width: 480px){
+    body{
+        width: 100%;
+    }
+    #icono{
+        width: 10%;
+        height: 10%;
+    }
+    #foto{
+        width: auto;
+        height: auto;
+    }
+    .red{
+        width: 10%;
+        height: 10%;
+    }
+}
+@media screen and (max-width: 425px){
+    body{
+        width: 100%;
+    }
+    #icono{
+        width: 9%;
+        height: 9%;
+    }
+    #foto{
+        width: auto;
+        height: auto;
+    }
+    .red{
+        width: 9%;
+        height: 9%;
+    }
+    .correo{
+        width: auto;
+        height: auto;
+    }
+    #Logo{
+        width: 20%;
+        height: 20%;
+    }  
+}
+@media screen and (max-width: 414px){
+    body{
+        width: 100%;
+    }
+    #icono{
+        width: 8%;
+        height: 8%;
+    }
+    #foto{
+        width: auto;
+        height: auto;
+    }
+    .red{
+        width: 8%;
+        height: 8%;
+    }
+}
+@media screen and (max-width: 375px){
+    body{
+        width: 100%;
+    }
+    #icono{
+        width: 7%;
+        height: 7%;
+    }
+    #foto{
+        width: auto;
+        height: auto;
+    }
+    .red{
+        width: 7%;
+        height: 7%;
+    }
+}
+body{
+    margin: auto;
+    max-width: 600px;
+    font-family: 'Montserrat', sans-serif;
+}
+#titulo{
+    color: #2c829d;
+    text-align: center;
+}
+#subtitulo{
+    color: #00bed6;
+    text-align: center;
+}
+#icono{
+    width: 15%;
+    height: 15%;
+    margin-left: 9%;
+}
+div{
+    text-align: left;
+}
+.mensaje1{
+    color: #2c829d;
+}
+.mensaje2{
+    color: #ff6100;
+}
+#foto{
+   margin-top: -25%;
+   vertical-align: top;
+   width: 55%;
+   height: 55%; 
+   margin-left: 45%;
+   padding: 0;
+}
+footer{
+    background-color: rgb(244, 236, 236);
+}
+.red{
+    margin-top: -10%;
+    width: 20%;
+    height: 20%;
+}
+#correo{
+    display: inline-block;
+    font-size:x-large;
+    padding-left: 6%;
+    padding-right: 6%;
+    vertical-align: middle;
+    color: #00bed6;
+}
+#Logo{
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+    vertical-align: top;
+}
